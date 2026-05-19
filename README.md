@@ -33,7 +33,7 @@ var dev = new Developer {
 
 ---
 
-## 🌐 Tech Universe & Ecosystem
+## Tech Universe & Ecosystem
 
 | Categoría | Tecnologías |
 |---|---|
