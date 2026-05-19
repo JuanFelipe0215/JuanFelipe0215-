@@ -99,5 +99,5 @@ var dev = new Developer {
 <br/>
 
 <div align="center">
-  <i>"Be a coder, change your world" — Riwi 🚀</i>
+  <i>"Be a coder, change your world" — Riwi</i>
 </div>
