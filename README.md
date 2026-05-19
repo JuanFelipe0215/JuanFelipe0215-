@@ -48,7 +48,7 @@ var dev = new Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFelipe0215&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFelipe0215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipe0215&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 </div>
