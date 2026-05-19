@@ -15,13 +15,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```csharp
 var dev = new Developer {
     Name        = "Juan Felipe Cardona Ríos",
     Age         = 20,
-    From        = "Medellín, Colombia 🇨🇴",
+    From        = "Medellín, Colombia ",
     Stack       = ["C#", ".NET", "ASP.NET Core", "Clean Architecture"],
     DataBases   = ["SQL Server", "PostgreSQL", "MySQL"],
     DevOps      = ["Docker", "CI/CD", "VPS", "Linux", "Grafana"],
@@ -32,7 +32,7 @@ var dev = new Developer {
 
 ---
 
-## 🌐 Tech Universe & Ecosystem
+## Tech Universe & Ecosystem
 
 | Categoría | Tecnologías |
 |---|---|
@@ -44,24 +44,24 @@ var dev = new Developer {
 
 ---
 
-## 📊 GitHub Analysis
+## GitHub Analysis
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFelipe0215&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipe0215&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFelipe0215&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipe0215&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanFelipe0215&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanFelipe0215&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -71,7 +71,7 @@ var dev = new Developer {
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -85,7 +85,7 @@ var dev = new Developer {
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
