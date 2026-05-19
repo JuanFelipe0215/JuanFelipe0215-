@@ -15,13 +15,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```csharp
 var dev = new Developer {
     Name        = "Juan Felipe Cardona Ríos",
     Age         = 20,
-    From        = "Medellín, Colombia 🇨🇴",
+    From        = "Medellín, Colombia ",
     Focus       = "Backend · Clean Architecture · REST APIs",
     Stack       = ["C#", "ASP.NET Core", ".NET", "SQL Server", "Docker"],
     Learning    = "Microservices · Design Patterns · DevOps",
@@ -45,7 +45,7 @@ var dev = new Developer {
 
 ---
 
-## 📊 GitHub Analysis
+## GitHub Analysis
 
 <div align="center">
 
@@ -55,7 +55,7 @@ var dev = new Developer {
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -65,7 +65,7 @@ var dev = new Developer {
 
 ---
 
-## 🟡 Pac-Man Contribution Graph
+## Pac-Man Contribution Graph
 
 <div align="center">
 
@@ -79,7 +79,7 @@ var dev = new Developer {
 
 ---
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
@@ -93,5 +93,5 @@ var dev = new Developer {
 <br/>
 
 <div align="center">
-  <i>"Be a coder, change your world" — Riwi 🚀</i>
+  <i>"Be a coder, change your world" — Riwi</i>
 </div>
