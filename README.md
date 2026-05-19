@@ -15,24 +15,25 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```csharp
 var dev = new Developer {
     Name        = "Juan Felipe Cardona Ríos",
     Age         = 20,
-    From        = "Medellín, Colombia ",
-    Stack       = ["C#", ".NET", "ASP.NET Core", "Clean Architecture"],
-    DataBases   = ["SQL Server", "PostgreSQL", "MySQL"],
-    DevOps      = ["Docker", "CI/CD", "VPS", "Linux", "Grafana"],
-    Learning    = "Microservices & Design Patterns",
+    From        = "Medellín, Colombia 🇨🇴",
+    Focus       = "Backend · Clean Architecture · REST APIs",
+    Stack       = ["C#", "ASP.NET Core", ".NET", "SQL Server", "Docker"],
+    Learning    = "Microservices · Design Patterns · DevOps",
+    Methodology = "SCRUM · Sprints · Code Reviews",
+    Languages   = ["Español (nativo)", "English (A1 — en progreso)"],
     OpenToWork  = true
 };
 ```
 
 ---
 
-## Tech Universe & Ecosystem
+## 🌐 Tech Universe & Ecosystem
 
 | Categoría | Tecnologías |
 |---|---|
@@ -44,14 +45,7 @@ var dev = new Developer {
 
 ---
 
-## GitHub Analysis
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFelipe0215&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFelipe0215&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-
-</div>
+## 📊 GitHub Analysis
 
 <div align="center">
 
@@ -61,7 +55,7 @@ var dev = new Developer {
 
 ---
 
-## Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -71,21 +65,21 @@ var dev = new Developer {
 
 ---
 
-## Contribution Graph
+## 🟡 Pac-Man Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/pacman.svg" />
+  <img alt="pacman" src="https://raw.githubusercontent.com/JuanFelipe0215/JuanFelipe0215/output/pacman.svg" />
 </picture>
 
 </div>
 
 ---
 
-## Contact
+## 📬 Contact
 
 <div align="center">
 
@@ -99,5 +93,5 @@ var dev = new Developer {
 <br/>
 
 <div align="center">
-  <i>"Be a coder, change your world" — Riwi</i>
+  <i>"Be a coder, change your world" — Riwi 🚀</i>
 </div>
