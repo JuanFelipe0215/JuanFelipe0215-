@@ -16,20 +16,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate pacman.svg
-        uses: huakunshen/waka-readme-stats@master
-        id: pacman
-        with:
-          github_user_name: JuanFelipe0215
-          commit_by_me: true
-        continue-on-error: true
-
       - name: Generate pac-man contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/pacman.svg?color_snake=#FFFF00&color_dots=#1f6feb,#1f6feb,#388bfd,#58a6ff,#cae8ff
+            dist/pacman.svg?color_snake=#FFFF00&color_dots=#161b22,#1f6feb,#388bfd,#58a6ff,#cae8ff
             dist/pacman-dark.svg?color_snake=#FFFF00&color_dots=#0d1117,#1f6feb,#388bfd,#58a6ff,#cae8ff&palette=github-dark
 
       - name: Push to output branch
